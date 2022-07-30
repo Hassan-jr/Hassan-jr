@@ -1,3 +1,4 @@
+###  OPEN TO WORK
 - 👋 Hi, I’m @Hassan-jr
 - 👀 I’m interested in ... WEB, MOBILE APP and BLOCKCHAIN DEVELOPMENT
 - 🌱 I’m currently learning ... BLOCKCHAIN DEVELOPMENT
@@ -5,6 +6,7 @@
 - 📫 You can reach out to me at 
 - EMAIL ...................... abdiladifhassan115@gmail.com
 - PORTFOLIO WEBSITE ......... http://hassanjr.herokuapp.com
+- LINKEDIN ..................https://www.linkedin.com/in/abdiladif-hassan-524168213
 - PHONE NUMBER .............. +254725151165
 
 <!---

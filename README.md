@@ -1,9 +1,10 @@
 ###  OPEN TO WORK
-- 👋 Hi, I’m ### ABDILADIF Hassan
+- 👋 Hi, I’m ABDILADIF Hassan
 - 👀 I’m interested in ... WEB, MOBILE APP and BLOCKCHAIN DEVELOPMENT
 - 🌱 I’m currently learning ... BLOCKCHAIN DEVELOPMENT
 - 💞️ I’m open to work oportunity and Freelance work
-- 📫 You can reach out to me at 
+
+#### CONCTACTS
 - EMAIL ...................... abdiladifhassan115@gmail.com
 - PORTFOLIO WEBSITE ......... http://hassanjr.herokuapp.com
 - LINKEDIN ..................https://www.linkedin.com/in/abdiladif-hassan-524168213

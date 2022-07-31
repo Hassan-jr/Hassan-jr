@@ -1,9 +1,11 @@
-###  OPEN TO WORK
-- 👋 Hi, I’m ABDILADIF Hassan
-- 👀 I’m interested in ... WEB, MOBILE APP and BLOCKCHAIN DEVELOPMENT
-- 🌱 I’m currently learning ... BLOCKCHAIN DEVELOPMENT
-- 💞️ I’m open to work oportunity and Freelance work
+#  ABDILADIF HASSAN 
+### Full Stack Developer | Android/iOS App Developer | Blockchain Developer 
 
+I am a Well-qualified Developer familiar with wide range
+ of programming utilities and languages. Knowledgeable of
+ backend and frontend development requirements. Handles any
+ part of process with ease and a Collaborative team player with
+ excellent technical abilities.
 #### CONCTACTS
 - EMAIL ...................... abdiladifhassan115@gmail.com
 - PORTFOLIO WEBSITE ......... http://hassanjr.herokuapp.com

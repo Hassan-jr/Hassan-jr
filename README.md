@@ -12,6 +12,10 @@ I am a Well-qualified Developer familiar with wide range
 - LINKEDIN ..................https://www.linkedin.com/in/abdiladif-hassan-524168213
 - PHONE NUMBER .............. +254725151165
 
+****************
+## OPEN TO WORK
+****************
+
 <!---
 Hassan-jr/Hassan-jr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

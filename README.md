@@ -1,6 +1,6 @@
 #  ABDILADIF HASSAN 
 
-### Full Stack Developer | Android/iOS App Developer |  
+### Software Engineer | Full Stack Developer | Android/iOS App Developer   
 
  I am a Well-qualified Developer familiar with wide range
  of programming utilities and languages. Knowledgeable of

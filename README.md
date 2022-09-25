@@ -12,6 +12,7 @@
 
 
 - PORTFOLIO WEBSITE ......... www.hassanjr.com
+- Blog ...................... https://blog.hassanjr.com
 - EMAIL ...................... abdiladifhassan115@gmail.com
 - LINKEDIN ..................https://www.linkedin.com/in/abdiladif-hassan-524168213
 - PHONE NUMBER .............. +254725151165

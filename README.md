@@ -1,6 +1,6 @@
 #  ABDILADIF HASSAN Adan
 
-### Software Engineer | Full Stack Developer | Android/iOS App Developer   
+### Software Engineer | Full Stack Developer | Cross Platform Developer   
 
  I am a Well-qualified Developer familiar with wide range
  of programming utilities and languages. Knowledgeable of

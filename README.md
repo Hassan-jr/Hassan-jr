@@ -11,11 +11,11 @@
 #### CONCTACTS
 
 
-- PORTFOLIO WEBSITE ......... www.hassanjr.com
-- Blog ...................... https://blog.hassanjr.com
-- EMAIL ...................... abdiladifhassan115@gmail.com
-- LINKEDIN ..................https://www.linkedin.com/in/abdiladif-hassan-524168213
-- PHONE NUMBER .............. +254725151165
+- PORTFOLIO WEBSITE ......... https://hassanjr.vercel.app
+- EMAIL ..................... abdiladifhassan115@gmail.com
+- Upwork Profile ............ https://www.upwork.com/freelancers/~0125bbec737a8ef806
+- LINKEDIN .................. https://www.linkedin.com/in/abdiladif-hassan-524168213
+- PHONE NUMBER ............. +254725151165
 
 
 

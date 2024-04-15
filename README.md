@@ -1,6 +1,6 @@
 #  ABDILADIF HASSAN Adan
 
-### Software Engineer | Full Stack Developer | Cross Platform Developer   
+### Full Stack | Machine Learning Engineer And An Ethical Hacker 
 
  I am a Well-qualified Developer familiar with wide range
  of programming utilities and languages. Knowledgeable of
